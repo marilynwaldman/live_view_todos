@@ -13,6 +13,7 @@ config :live_view_todos,
 # Configures the endpoint
 config :live_view_todos, LiveViewTodosWeb.Endpoint,
   url: [host: "localhost"],
+  live_view: [signing_salt: "gr6j1ZhSIGlOy+KqJOfRH3C2v4x8aZTs"],
   secret_key_base: "Jni+i6GpazuXgJTZWDJHUyfCKawY6Rscn1HkbXaWK5LcjkFKlK0qs7VWZ86AaStw",
   render_errors: [view: LiveViewTodosWeb.ErrorView, accepts: ~w(html json)],
   pubsub: [name: LiveViewTodos.PubSub, adapter: Phoenix.PubSub.PG2]
