@@ -1,6 +1,6 @@
-ddefmodule LiveViewTodosWeb.TodoLive do
+defmodule LiveViewTodosWeb.TodoLive do
   use Phoenix.LiveView
-  alias LiveViewTodos.Todos
+
   alias LiveViewTodosWeb.TodoView
 
   def mount(_session, socket) do

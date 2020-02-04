@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de80d3ae-749d-4e55-b59e-7efaa3eb8c06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/phoenix_live_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/phoenix_live_view.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/live_view_todos_web/templates/page/index.html.eex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/live_view_todos_web/templates/page/index.html.eex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/live_view_todos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/live_view_todos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/live_view_todos_web/live/todo_live.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/live_view_todos_web/live/todo_live.ex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="live_view_todos" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
