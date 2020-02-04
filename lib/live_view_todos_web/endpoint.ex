@@ -9,6 +9,11 @@ defmodule LiveViewTodosWeb.Endpoint do
     key: "_live_view_todos_key",
     signing_salt: "4HtD55Li"
   ]
+  # add /live socket
+
+  socket "/live", Phoenix.LiveView.Socket,
+         websocket: [connect_info: [session: @session_options]]
+
 
   socket "/socket", LiveViewTodosWeb.UserSocket,
     websocket: true,
