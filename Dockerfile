@@ -16,4 +16,4 @@ RUN mix local.hex --force
 # Compile the project
 RUN mix do compile
 
-CMD ["/app/entrypoint.sh"]
+CMD /app/entrypoint.sh
