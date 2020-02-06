@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de80d3ae-749d-4e55-b59e-7efaa3eb8c06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/entrypoint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +64,13 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="359" y="177" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.735@0.23.1280.735" timestamp="1580847167732" />
-    <state x="139" y="23" key="SettingsEditor" timestamp="1581022574802">
+    <state x="139" y="23" key="SettingsEditor" timestamp="1581031849697">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="139" y="23" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1581022574802" />
+    <state x="139" y="23" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1581031849697" />
+    <state x="286" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1581031985209">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="286" y="202" key="com.intellij.ide.util.TipDialog/0.23.1280.735@0.23.1280.735" timestamp="1581031985209" />
   </component>
 </project>

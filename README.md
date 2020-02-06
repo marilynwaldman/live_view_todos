@@ -1,5 +1,12 @@
 # LiveViewTodos
 
+Updated docker stuff per this:
+
+   https://pspdfkit.com/blog/2018/how-to-run-your-phoenix-application-with-docker/
+   
+   * docker-compose build
+   * docker-compose up 
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
